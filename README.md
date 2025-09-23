@@ -52,4 +52,5 @@ mvn spring-boot:run
 
 cd front
 npm install
+npm install axios
 npm run dev
